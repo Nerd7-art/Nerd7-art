@@ -1,10 +1,21 @@
-# Hi, I'm nerd7-art 🚀
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<br>
 
-### Future Rust Backend Engineer | On a mission to build scalable systems at xAI
+
+
+<h1>Future Rust Backend Engineer | On a mission to build scalable systems at xAI </h1>
+
+
+
+### About Me!
 
 I am currently executing a rigorous 7-week project plan to master the exact tech stack required for the [**Rust/C++ Backend Engineer - grok.com & API**](https://job-boards.greenhouse.io/xai/jobs/4805169007) role at xAI. This profile is my public build log and application portfolio.
 
 **First Commit:** "lets go lol" – The journey begins.
+
+
 
 ---
 
@@ -13,7 +24,7 @@ I am currently executing a rigorous 7-week project plan to master the exact tech
 **This Week's Goal:** Mastering Rust fundamentals: ownership, borrowing, and error handling.
 **Project:** [`cli-word-count`](https://github.com/nerd7-art/cli-word-count) (Active Development)
 
-![Progress](https://progress-bar.dev/14/?title=Overall%20Progress&width=500)
+
 
 ---
 
@@ -89,3 +100,4 @@ I am systematically targeting each requirement from the job description:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerd7-art&layout=compact&theme=radical)](https://github.com/nerd7-art)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nerd7-art&theme=radical)](https://git.io/streak-stats)
+

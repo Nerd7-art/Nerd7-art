@@ -5,7 +5,7 @@
 
 
 
-<h1>Future Rust Backend Engineer | On a mission to build scalable systems at xAI </h1>
+<h1>Future Rust/C++ Backend Engineer - grok.com & API | On a mission to build scalable systems at xAI </h1>
 
 
 

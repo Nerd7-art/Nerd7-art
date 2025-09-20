@@ -16,6 +16,11 @@ I am currently executing a rigorous 7-week project plan to master the exact tech
 **First Commit:** "lets go lol" – The journey begins.
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmx2ZGt2Y3Uxcm95ODlrMHVtcnUzb29hYmsweW5udXZteDVzYndzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.gif" height="230"/>
+</p>
+<br>
+
 
 ---
 
@@ -50,12 +55,8 @@ I am systematically targeting each requirement from the job description:
 | Skill | Foundation | Proficient | Advanced | Project Proof |
 | :--- | :---: | :---: | :---: | :--- |
 | **Rust Syntax & Ownership** | 🔄 | ⬜ | ⬜ | [`cli-word-count`](https://github.com/nerd7-art/cli-word-count) |
-| **Async Programming (Tokio)** | ⬜ | ⬜ | ⬜ | [`async-echo-server`](https://github.com/nerd7-art/async-echo-server) |
-| **HTTP Protocols (Hyper)** | ⬜ | ⬜ | ⬜ | [`hermes-http`](https://github.com/nerd7-art/hermes-http) |
-| **Observability (Prometheus)** | ⬜ | ⬜ | ⬜ | `hermes-metrics` |
-| **WebSockets (Tungstenite)** | ⬜ | ⬜ | ⬜ | `hermes-ws` |
-| **Production Deployment** | ⬜ | ⬜ | ⬜ | `hermes-live` |
-| **Distributed Systems Design** | ⬜ | ⬜ | ⬜ | `systems-design-notes` |
+| **Distributed Systems Design** | 🔄 | ⬜ | ⬜ | `systems-design-notes` |
+
 
 ---
 
@@ -100,4 +101,25 @@ I am systematically targeting each requirement from the job description:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerd7-art&layout=compact&theme=radical)](https://github.com/nerd7-art)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nerd7-art&theme=radical)](https://git.io/streak-stats)
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmx2ZGt2Y3Uxcm95ODlrMHVtcnUzb29hYmsweW5udXZteDVzYndzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.gif" height="230"/>
+</p>
+<br>
+
+
+#### Explore Mood
+ Rust for Programmers   https://www.codecademy.com/learn/rust-for-programmers
+ 
+  Rust for Programmers   https://www.codecademy.com/learn/rust-for-programmers
+
+
+
+
+
+
+
+
 

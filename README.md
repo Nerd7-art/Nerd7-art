@@ -11,7 +11,7 @@
 
 ### About Me!
 
-I am currently executing a rigorous 7-week project plan to master the exact tech stack required for the [**Rust/C++ Backend Engineer - grok.com & API**](https://job-boards.greenhouse.io/xai/jobs/4805169007) role at xAI. This profile is my public build log and application portfolio.
+I am currently executing a rigorous 7-week project plan to master the exact tech stack required for the [**Rust/C++ Backend Engineer - grok.com & API**](https://job-boards.greenhouse.io/xai/jobs/4784548007) role at xAI. This profile is my public build log and application portfolio.
 
 **First Commit:** "lets go lol" – The journey begins.
 

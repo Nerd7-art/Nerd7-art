@@ -45,6 +45,8 @@ I am systematically targeting each requirement from the job description:
 | **Databases (PostgreSQL, etc.)** | Project TBD | ⬜ | *Planned for Phase 2* |
 | **Docker & Kubernetes** | Deploying `hermes-live` | ⬜ | `hermes-live` (Week 6) |
 | **gRPC** | Project TBD | ⬜ | *Planned for Phase 2* |
+| **Python** | Learning parallel mood | ⬜ | *Pythagorean theorem* |
+| **C++** |Learning parallel mood | ⬜ | *Pythagorean theorem* |
 
 **Status Key:** ✅ = Complete | 🔄 = In Progress | ⬜ = Planned
 
@@ -74,7 +76,14 @@ I am systematically targeting each requirement from the job description:
 
 ---
 
+
+<p align="center">
+  <img src="https://miro.medium.com/1*v933WDxs-GcgJLWluLwxDA.jpeg" height="230"/>
+</p>
+<br>
+
 ### 🛠️ Core Tech Stack (From the Job Description)
+
 
 *   **Language:** `Rust`
 *   **Async Runtime:** `Tokio`
@@ -108,6 +117,7 @@ I am systematically targeting each requirement from the job description:
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmx2ZGt2Y3Uxcm95ODlrMHVtcnUzb29hYmsweW5udXZteDVzYndzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.gif" height="230"/>
 </p>
 <br>
+
 
 
 #### Explore Mood
